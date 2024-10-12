@@ -20,3 +20,5 @@ Homework-6
 [Xuất sắc]9. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1080391865/
 
 [Xuất sắc]10. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1080399456/
+
+[Bài tập tông hợp]. https://scratch.mit.edu/projects/1080409104
